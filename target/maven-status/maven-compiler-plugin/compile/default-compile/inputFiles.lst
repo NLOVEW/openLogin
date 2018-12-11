@@ -1,0 +1,15 @@
+G:\apache-tomcat-9.0.12\webapps\login\src\main\java\com\nhb\open\login\bean\WeiBoAccessToken.java
+G:\apache-tomcat-9.0.12\webapps\login\src\main\java\com\nhb\open\login\bean\WeiBoUser.java
+G:\apache-tomcat-9.0.12\webapps\login\src\main\java\com\nhb\open\login\utils\WeChatSignUtil.java
+G:\apache-tomcat-9.0.12\webapps\login\src\main\java\com\nhb\open\login\weibo\WeiBoService.java
+G:\apache-tomcat-9.0.12\webapps\login\src\main\java\com\nhb\open\login\bean\QQResponse.java
+G:\apache-tomcat-9.0.12\webapps\login\src\main\java\com\nhb\open\login\bean\WeChatUser.java
+G:\apache-tomcat-9.0.12\webapps\login\src\main\java\com\nhb\open\login\bean\QQUser.java
+G:\apache-tomcat-9.0.12\webapps\login\src\main\java\com\nhb\open\login\qq\QQService.java
+G:\apache-tomcat-9.0.12\webapps\login\src\main\java\com\nhb\open\login\utils\WeChatShareUtil.java
+G:\apache-tomcat-9.0.12\webapps\login\src\main\java\com\nhb\open\login\wechat\WeChatService.java
+G:\apache-tomcat-9.0.12\webapps\login\src\main\java\com\nhb\open\login\bean\WeChatResponse.java
+G:\apache-tomcat-9.0.12\webapps\login\src\main\java\com\nhb\open\login\bean\WeChatAccessToken.java
+G:\apache-tomcat-9.0.12\webapps\login\src\main\java\com\nhb\open\login\bean\WeChatShare.java
+G:\apache-tomcat-9.0.12\webapps\login\src\main\java\com\nhb\open\login\bean\QQAccessToken.java
+G:\apache-tomcat-9.0.12\webapps\login\src\main\java\com\nhb\open\login\utils\StringUtils.java
